@@ -1,0 +1,14 @@
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\bin\Debug\net6.0\ConsoleAppGit.exe
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\bin\Debug\net6.0\ConsoleAppGit.deps.json
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\bin\Debug\net6.0\ConsoleAppGit.runtimeconfig.json
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\bin\Debug\net6.0\ConsoleAppGit.dll
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\bin\Debug\net6.0\ConsoleAppGit.pdb
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\obj\Debug\net6.0\ConsoleAppGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\obj\Debug\net6.0\ConsoleAppGit.AssemblyInfoInputs.cache
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\obj\Debug\net6.0\ConsoleAppGit.AssemblyInfo.cs
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\obj\Debug\net6.0\ConsoleAppGit.csproj.CoreCompileInputs.cache
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\obj\Debug\net6.0\ConsoleAppGit.dll
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\obj\Debug\net6.0\refint\ConsoleAppGit.dll
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\obj\Debug\net6.0\ConsoleAppGit.pdb
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\obj\Debug\net6.0\ConsoleAppGit.genruntimeconfig.cache
+C:\K020G1191\留年後_3学年\TD3\github用ファイル\ConsoleAppGit\ConsoleAppGit\obj\Debug\net6.0\ref\ConsoleAppGit.dll
